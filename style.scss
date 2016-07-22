@@ -283,7 +283,51 @@ footer {
   text-align: center;
 }
 
+/**************/
+/* TABLES     */
+/**************/
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    font-size: 0.9em;
+    width: 100%;
+    margin-bottom: 1.1em;
+}
+
+tbody tr:nth-child(odd) {
+   background-color: rgb(249,249,249);
+}
+
+tr{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100%;
+  line-height: 1;
+  font-family: inherit;
+  text-align: left;
+  border-bottom-color: rgb(221,221,221);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+th{
+  font-weight: bold;
+  padding: 10px;
+}
+
+td{
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
