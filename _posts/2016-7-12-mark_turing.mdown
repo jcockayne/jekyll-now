@@ -2,7 +2,9 @@
 layout: post
 title: "Mark Girolami: Turing Talk"
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3PSSJM7J9U" frameborder="0" allowfullscreen></iframe>	
+<div class="videowrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3PSSJM7J9U" frameborder="0" allowfullscreen>
+	</iframe>
+</div>	
 <br/>
 Mark Girolami's recent talk at the Alan Turing Institute is up on YouTube. After motivating Probabilistic Numerics as a discipline Mark goes on to describe our <a href="http://arxiv.org/abs/1605.07811">PMM paper</a> and present some new results in the direction of evolutionary PDEs.
