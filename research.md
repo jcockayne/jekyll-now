@@ -22,6 +22,7 @@ Working paper
 
 | **When**		 | **Where**		| **Title**		|            |
 |----------------|------------------|---------------|------------|
+| 18 Aug 2016    | MCQMC 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/Jon_MCQMC.pdf) |
 | 11 Jul 2016    | MaxEnt 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/MaxEnt_2016.pdf) |
 | 15 Feb 2016    | Warwick: EQUIP Lunch Meeting	| Probabilistic Meshless Methods for Bayesian Inverse Problems | 
 | 9 Feb 2016     | Oxford: Kernel Mondays		| Probabilistic Meshless Methods for Bayesian Inverse Problems |
