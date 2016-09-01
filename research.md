@@ -8,12 +8,12 @@ permalink: /research/
 
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
-Working Paper  
+Preprint  
 \[[arxiv](http://arxiv.org/abs/1605.07811)\]
 
 **Convergence Rates for a Class of Estimators Based on Stein’s Identity**  
 *Chris J. Oates; Jon Cockayne; F-X Briol; Mark Girolami*  
-Working paper  
+Preprint   
 \[[arxiv](http://arxiv.org/abs/1603.03220)\]
 
 ---
