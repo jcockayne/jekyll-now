@@ -22,6 +22,7 @@ Preprint
 
 | **When**		 | **Where**		| **Title**		|            |
 |----------------|------------------|---------------|------------|
+| 11 Oct 2016    | SCCS					| Probabilistic Numerics for Differential Equations | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/2016-10-11_sccs.pdf) |
 | 18 Aug 2016    | MCQMC 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/Jon_MCQMC.pdf) |
 | 11 Jul 2016    | MaxEnt 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/MaxEnt_2016.pdf) |
 | 15 Feb 2016    | Warwick: EQUIP Lunch Meeting	| Probabilistic Meshless Methods for Bayesian Inverse Problems | 
