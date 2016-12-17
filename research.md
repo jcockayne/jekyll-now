@@ -6,6 +6,15 @@ permalink: /research/
 
 # Publications
 
+**Contributed Discussion on Article by Chkrebtii, Campbell, Calderhead, and Girolami**  
+*F-X Briol; Jon Cockayne; Onur Teymur* as well as *Jon Cockayne*  
+\[[Journal](https://projecteuclid.org/euclid.ba/1480474950)\]
+
+**Probabilistic Numerical Methods for PDE-constrained Bayesian Inverse Problems**  
+*Jon Cockayne; Chris Oates; Tim Sullivan; Mark Girolami*  
+Proceedings of the 36th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering  
+*To appear*.
+
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 Preprint  
@@ -22,6 +31,7 @@ Preprint
 
 | **When**		 | **Where**		| **Title**		|            |
 |----------------|------------------|---------------|------------|
+| 16 Dec 2016    | [Fomics Winter School on UQ](https://www.ics.usi.ch/index.php/news/fomics-winter-school-at-usi-december-15-19-2016)					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/fomics.pdf) |
 | 11 Oct 2016    | SCCS					| Probabilistic Numerics for Differential Equations | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/2016-10-11_sccs.pdf) |
 | 18 Aug 2016    | MCQMC 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/Jon_MCQMC.pdf) |
 | 11 Jul 2016    | MaxEnt 2016					| Probabilistic Meshless Methods for Bayesian Inverse Problems | [![pdf]({{site.baseurl}}/images/pdf.png)]({{site.baseurl}}/resources/MaxEnt_2016.pdf) |
