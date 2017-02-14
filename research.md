@@ -6,6 +6,12 @@ permalink: /research/
 
 # Publications
 
+
+**Bayesian Probabilistic Numerical Methods**  
+*Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
+Preprint  
+\[[arxiv](http://arxiv.org/abs/1702.03673)\]
+
 **Contributed Discussion on Article by Chkrebtii, Campbell, Calderhead, and Girolami**  
 *F-X Briol; Jon Cockayne; Onur Teymur* as well as *Jon Cockayne*  
 \[[Journal](https://projecteuclid.org/euclid.ba/1480474950)\]
