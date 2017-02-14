@@ -1,3 +1,3 @@
 ---
-redirect_to: "/resources/pn_foundations.pdf"
+redirect_to: "https://arxiv.org/pdf/1702.03673"
 ---
