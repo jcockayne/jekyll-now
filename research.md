@@ -15,6 +15,7 @@ permalink: /research/
 **Bayesian Probabilistic Numerical Methods**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 \[[arXiv](http://arxiv.org/abs/1702.03673)\]
+**Awarded "best student paper" by in the section on Bayesian Statistical Science, by the ASA**
 
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
