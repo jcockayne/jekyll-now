@@ -10,24 +10,21 @@ permalink: /research/
 
 **A Bayesian Conjugate Gradient Method**  
 *Jon Cockayne; Chris J. Oates; Mark Girolami*  
-Preprint  
 \[[arXiv](http://arxiv.org/abs/1801.05242)\]
 
 **Bayesian Probabilistic Numerical Methods**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
-Preprint  
 \[[arXiv](http://arxiv.org/abs/1702.03673)\]
 
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
-Preprint  
 \[[arXiv](http://arxiv.org/abs/1605.07811)\]
 
 
 ## 2018
 **Convergence Rates for a Class of Estimators Based on Stein’s Identity**  
 *Chris J. Oates; Jon Cockayne; F-X Briol; Mark Girolami*  
-Preprint   
+Bernoulli, To Appear  
 \[[arXiv](http://arxiv.org/abs/1603.03220)\]
 
 ## 2017
