@@ -6,30 +6,48 @@ permalink: /research/
 
 # Publications
 
+## Preprints
+
+**A Bayesian Conjugate Gradient Method**
+*Jon Cockayne; Chris J. Oates; Mark Girolami*
+Preprint
+\[[arXiv](http://arxiv.org/abs/1801.05242)\]
 
 **Bayesian Probabilistic Numerical Methods**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 Preprint  
 \[[arXiv](http://arxiv.org/abs/1702.03673)\]
 
-**Contributed Discussion on Article by Chkrebtii, Campbell, Calderhead, and Girolami**  
-*F-X Briol; Jon Cockayne; Onur Teymur* as well as *Jon Cockayne*  
-\[[Journal](https://projecteuclid.org/euclid.ba/1480474950)\]
-
-**Probabilistic Numerical Methods for PDE-constrained Bayesian Inverse Problems**  
-*Jon Cockayne; Chris Oates; Tim Sullivan; Mark Girolami*  
-Proceedings of the 36th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering  
-\[[arXiv](https://arxiv.org/abs/1701.04006)\] \[[Journal](http://aip.scitation.org/toc/apc/1853/1)\]
-
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 Preprint  
 \[[arXiv](http://arxiv.org/abs/1605.07811)\]
 
+
+## 2018
 **Convergence Rates for a Class of Estimators Based on Stein’s Identity**  
 *Chris J. Oates; Jon Cockayne; F-X Briol; Mark Girolami*  
 Preprint   
 \[[arXiv](http://arxiv.org/abs/1603.03220)\]
+
+## 2017
+
+**On the Sampling Problem for Kernel Quadrature**
+*F-X Briol; Chris J. Oates; Jon Cockayne; Wilson J. Chen; Mark Girolami*
+International Conference on Machine Learning
+\[[Journal](http://proceedings.mlr.press/v70/briol17a.html)\] \[[arXiv](https://arxiv.org/abs/1706.03369)]
+
+**Probabilistic Numerical Methods for PDE-constrained Bayesian Inverse Problems**  
+*Jon Cockayne; Chris Oates; Tim Sullivan; Mark Girolami*  
+Proceedings of the 36th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering  
+\[[Journal](http://aip.scitation.org/toc/apc/1853/1)\] \[[arXiv](https://arxiv.org/abs/1701.04006)\] 
+
+**Contributed Discussion on Article by Chkrebtii, Campbell, Calderhead, and Girolami**  
+*Jon Cockayne* as well as *F-X Briol; Jon Cockayne; Onur Teymur* 
+\[[Journal](https://projecteuclid.org/euclid.ba/1480474950)\]
+
+
+
 
 ---
 
