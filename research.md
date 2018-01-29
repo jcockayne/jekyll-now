@@ -8,9 +8,9 @@ permalink: /research/
 
 ## Preprints
 
-**A Bayesian Conjugate Gradient Method**
-*Jon Cockayne; Chris J. Oates; Mark Girolami*
-Preprint
+**A Bayesian Conjugate Gradient Method**  
+*Jon Cockayne; Chris J. Oates; Mark Girolami*  
+Preprint  
 \[[arXiv](http://arxiv.org/abs/1801.05242)\]
 
 **Bayesian Probabilistic Numerical Methods**  
@@ -32,10 +32,11 @@ Preprint
 
 ## 2017
 
-**On the Sampling Problem for Kernel Quadrature**
-*F-X Briol; Chris J. Oates; Jon Cockayne; Wilson J. Chen; Mark Girolami*
-International Conference on Machine Learning
-\[[Journal](http://proceedings.mlr.press/v70/briol17a.html)\] \[[arXiv](https://arxiv.org/abs/1706.03369)]
+**On the Sampling Problem for Kernel Quadrature**  
+*F-X Briol; Chris J. Oates; Jon Cockayne; Wilson J. Chen; Mark Girolami*  
+International Conference on Machine Learning  
+\[[Journal](http://proceedings.mlr.press/v70/briol17a.html)\]
+\[[arXiv](https://arxiv.org/abs/1706.03369)]
 
 **Probabilistic Numerical Methods for PDE-constrained Bayesian Inverse Problems**  
 *Jon Cockayne; Chris Oates; Tim Sullivan; Mark Girolami*  
