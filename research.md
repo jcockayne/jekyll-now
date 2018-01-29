@@ -44,7 +44,7 @@ Proceedings of the 36th International Workshop on Bayesian Inference and Maximum
 \[[Journal](http://aip.scitation.org/toc/apc/1853/1)\] \[[arXiv](https://arxiv.org/abs/1701.04006)\] 
 
 **Contributed Discussion on Article by Chkrebtii, Campbell, Calderhead, and Girolami**  
-*Jon Cockayne* as well as *F-X Briol; Jon Cockayne; Onur Teymur* 
+*Jon Cockayne* as well as *F-X Briol; Jon Cockayne; Onur Teymur*  
 \[[Journal](https://projecteuclid.org/euclid.ba/1480474950)\]
 
 
