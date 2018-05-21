@@ -8,9 +8,17 @@ permalink: /research/
 
 ## Preprints
 
+**On the Bayesian Solution of Differential Equations**  
+*Junyang Wang; Jon Cockayne; Chris J. Oates*  
+\[[arXiv](https://arxiv.org/abs/1805.07109)\]
+
 **A Bayesian Conjugate Gradient Method**  
 *Jon Cockayne; Chris J. Oates; Mark Girolami*  
 \[[arXiv](http://arxiv.org/abs/1801.05242)\]
+
+**Bayesian Probabilistic Numerical Methods for Industrial Process Monitoring**  
+*Chris J. Oates; Jon Cockayne; Robert Ackroyd*  
+\[[arXiv](https://arxiv.org/abs/1707.06107)]
 
 **Bayesian Probabilistic Numerical Methods**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
@@ -20,10 +28,6 @@ permalink: /research/
 **Probabilistic Meshless Methods for Partial Differential Equations and Bayesian Inverse Problems**  
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 \[[arXiv](http://arxiv.org/abs/1605.07811)\]
-
-**On the Bayesian Solution of Differential Equations**  
-*Junyang Wang; Jon Cockayne; Chris J. Oates*  
-\[[arXiv](https://arxiv.org/abs/1805.07109)\]
 
 
 ## 2018
