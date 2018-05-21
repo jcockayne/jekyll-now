@@ -21,6 +21,10 @@ permalink: /research/
 *Jon Cockayne; Chris J. Oates; Tim Sullivan; Mark Girolami*  
 \[[arXiv](http://arxiv.org/abs/1605.07811)\]
 
+**On the Bayesian Solution of Differential Equations**
+*Junyang Wang; Jon Cockayne; Chris J. Oates*
+\[[arXiv](https://arxiv.org/abs/1805.07109)\]
+
 
 ## 2018
 **Convergence Rates for a Class of Estimators Based on Stein’s Identity**  
